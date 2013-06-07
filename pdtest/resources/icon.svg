@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="icon.svg"
-   inkscape:export-filename="/home/brousch/Projects/saythis-kivy-intro-app/resources/icon.png"
-   inkscape:export-xdpi="80.389999"
-   inkscape:export-ydpi="80.389999">
+   inkscape:export-filename="/home/brousch/Projects/kivy-pdtest/pdtest/resources/highres-icon.png"
+   inkscape:export-xdpi="110.77"
+   inkscape:export-ydpi="110.77">
   <defs
      id="defs4">
     <linearGradient
@@ -50,7 +50,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.78"
-     inkscape:cx="-91.727418"
+     inkscape:cx="-250.06075"
      inkscape:cy="288.32651"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,19 +91,19 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="194.7733"
-       y="976.49329"
+       x="194.89049"
+       y="972.05774"
        id="text3001"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3003"
-         x="194.7733"
-         y="976.49329"
-         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Kivy</tspan><tspan
+         x="194.89049"
+         y="972.05774"
+         style="font-size:64px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Kivy</tspan><tspan
          sodipodi:role="line"
-         x="194.7733"
-         y="1066.4933"
-         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
-         id="tspan3005">Pd Test</tspan></text>
+         x="194.89049"
+         y="1052.0577"
+         style="font-size:64px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan3005">Pd Bloopy</tspan></text>
   </g>
 </svg>
