@@ -69,7 +69,7 @@ install_kivy_dev:
 .PHONY: install_python_for_android
 install_python_for_android:
 	rm -rf $(PYTHON_FOR_ANDROID)
-	git clone https://github.com/kivy/python-for-android.git
+	git clone https://github.com/brousch/python-for-android.git
 
 .PHONY: create_python_for_android_distribution
 create_python_for_android_distribution:
